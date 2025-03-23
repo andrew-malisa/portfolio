@@ -7,15 +7,27 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Mithril AI",
-    year: 2024,
-    description: "Open science AI resarch lab",
-    url: "https://github.com/mithrilai",
+    title: "Zahara Pay",
+    year: 2025,
+    description: "A payment solution for Zahara Business.",
+    url: "https://github.com/Zahara-Tanzania",
   },
   {
-    title: "OpenDeepLearning",
-    year: 2023,
-    description: "Open source AI education resources",
-    url: "https://opendeeplearning.xyz/",
+    title: "Zahara Ads",
+    year: 2025,
+    description: "An advertising solution for Zahara Business.",
+    url: "https://github.com/Zahara-Tanzania",
+  },
+  {
+    title: "Zahara Get Home",
+    year: 2025,
+    description: "A delivery service for Zahara Business.",
+    url: "https://github.com/Zahara-Tanzania",
+  },
+  {
+    title: "Zahara Ecosystem",
+    year: 2025,
+    description: "A network of Zahara businesses and services.",
+    url: "https://github.com/Zahara-Tanzania/zahara-ecosystem",
   },
 ];
