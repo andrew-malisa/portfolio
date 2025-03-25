@@ -10,7 +10,7 @@ export const metaData = {
 export const socialLinks = {
   twitter: "https://x.com/damalumalisa",
   github: "https://github.com/andrew-malisa",
-  instagram: "https://www.instagram.com/1452.04/",
+  instagram: "https://www.instagram.com/andrewmalisa3/",
   linkedin: "https://www.linkedin.com/in/andrew-d-malisa-233a46280/",
   email: "mailto:damalumalisa@gmail.com",
 };
